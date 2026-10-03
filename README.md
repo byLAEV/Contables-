@@ -6,6 +6,11 @@ Hoy no hay contables, más bien compita de buena nota.
 
 Este repositorio nace con buena nota, buena voluntad y espíritu de compita.
 
+## Contable de ayer
+
+- **Concepto:** La canción
+- **Monto:** Un poco menos de ₡30.000
+
 ---
 
 **byLAEV**
