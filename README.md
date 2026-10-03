@@ -73,10 +73,28 @@ Las portadas forman parte de la presentación visual de mis publicaciones, pero 
 
 ---
 
+## Declaración de situación presencial — 03 de octubre de 2026
+
+**Fecha:** 03 de octubre de 2026  
+**Hora de registro:** 17:12 (UTC−06:00)  
+**Lugar de referencia:** San Rafael, San Ramón, Alajuela, Costa Rica  
+**Declarante:** Lerry Alexander Elizondo Villalobos / LAEV
+
+Dejo constancia de la siguiente situación presencial, tal como la declaro en este momento:
+
+- Hace unos instantes había **dos personas adultas de sexo masculino** conmigo en mi casa.
+- Ambas personas ya se retiraron.
+- En este momento **estoy solo en mi casa**.
+- Por lo tanto, en este momento no hay diez mujeres presentes en mi casa.
+
+Este registro documenta **mi declaración sobre la situación presencial en el momento indicado**. No pretende presentar como hecho independiente ninguna afirmación que no pueda verificarse mediante evidencia adicional.
+
+---
+
 ## Declaración de identidad y nomenclatura
 
 **Fecha:** 03 de octubre de 2026  
-**Hora de esta actualización:** 15:28 (UTC−06:00)  
+**Hora de esta actualización:** 17:12 (UTC−06:00)  
 **Lugar de referencia:** Costa Rica  
 **Declarante:** Lerry Alexander Elizondo Villalobos  
 **Alias públicos:** byLAEV / LAEV
