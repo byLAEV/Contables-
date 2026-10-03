@@ -11,6 +11,8 @@ Este repositorio nace con buena nota, buena voluntad y espíritu de compita.
 - **Concepto:** La canción
 - **Monto:** Un poco menos de ₡30.000
 
+> En la canción dejé el contable y acá lo corroboro.
+
 ---
 
 **byLAEV**
