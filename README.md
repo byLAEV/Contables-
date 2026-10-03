@@ -22,11 +22,13 @@ Este repositorio nace con buena nota, buena voluntad y espíritu de compita.
 ## Declaración personal — identidad y apodo
 
 **Fecha:** 03 de octubre de 2026  
-**Hora:** 15:11 (UTC−06:00)  
+**Hora:** 15:15 (UTC−06:00)  
 **Lugar declarado:** mi casa  
 **Declarante:** Lerry Alexander Elizondo Villalobos
 
-En mi entorno también me dicen de apodo **“el Gordo”** o **“Gordito”**.
+Quiero dejar constancia de que **odio que me llamen “el Gordo” o “Gordito”**. Lo considero un apodo que no quiero utilizar para referirme a mí mismo ni como forma preferida de identificación.
+
+No voy a entrar en discusiones que ya he tenido en el pasado con muchas personas sobre este tema. Esta entrada simplemente deja registrada mi posición y mi forma de reportarlo.
 
 Mi nombre es **Lerry Alexander Elizondo Villalobos** y utilizo **byLAEV** y **LAEV** como alias públicos.
 
@@ -35,9 +37,9 @@ Mi nombre es **Lerry Alexander Elizondo Villalobos** y utilizo **byLAEV** y **LA
 - **Nombre:** Lerry Alexander Elizondo Villalobos
 - **Alias:** byLAEV
 - **Alias:** LAEV
-- **Apodos:** el Gordo / Gordito
+- **Apodo no deseado:** “el Gordo” / “Gordito”
 
-Esta entrada documenta una declaración personal de identidad y nomenclatura. No constituye una certificación independiente de terceros.
+Esta entrada documenta una declaración personal de identidad, preferencia de nomenclatura y posición personal. No constituye una certificación independiente de terceros.
 
 **Declarante:**  
 Lerry Alexander Elizondo Villalobos  
