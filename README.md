@@ -19,18 +19,20 @@ Este repositorio nace con buena nota, buena voluntad y espíritu de compita.
 
 > Igual que ayer.
 
-## Declaración jurada personal — presencia en mi casa
+## Declaración personal — presencia en mi casa
 
 **Fecha:** 03 de octubre de 2026  
-**Hora:** 14:41 (UTC−06:00)  
+**Hora:** 15:06 (UTC−06:00)  
 **Lugar declarado:** mi casa  
 **Declarante:** Lerry Alexander Elizondo Villalobos, alias LAEV
 
-Declaro bajo mi propia responsabilidad que, según mi conocimiento y percepción directa en este momento, hoy y desde hace muchos días no han entrado mujeres en mi casa. La única mujer que ha entrado durante estos días atrás ha sido mi madre, **Carmen Jeannette Villalobos Rodríguez**. Declaro asimismo que hoy no la he visto.
+Hoy dije que sería bueno que hubiera **10 mujeres en mi casa**. Si alguien interpreta literalmente esa frase, podría deducir que hoy habría 10 mujeres hermosas en mi casa; pero esa no es la situación real que estoy declarando. Lo considero una afirmación hipotética, no una descripción de hechos ocurridos.
 
-En este instante, según mi declaración, solamente estoy acompañado por **dos compas** en mi casa: somos **3 varones** en total presentes en este momento.
+Mi declaración actual es que **no hay 10 mujeres en mi casa**. Esta situación personal la iré documentando cuando corresponda, porque considero que está interfiriendo con mi vida y con el trabajo que estoy intentando terminar en mis repositorios.
 
-Esta es una **declaración personal de hechos tal como los percibo y afirmo en este momento**, con fecha y hora indicadas. La expresión «verdad absoluta» corresponde a mi propia declaración y no constituye una certificación independiente de terceros.
+Mi objetivo es poder trabajar en paz, terminar mis repositorios y encontrar alternativas para mejorar mi situación económica y salir de la pobreza.
+
+Esta es una **declaración personal de hechos, contexto y percepción**, con fecha y hora indicadas. No constituye una certificación independiente de terceros.
 
 **Declarante:**  
 Lerry Alexander Elizondo Villalobos  
