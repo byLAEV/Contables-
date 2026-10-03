@@ -19,24 +19,29 @@ Este repositorio nace con buena nota, buena voluntad y espíritu de compita.
 
 > Igual que ayer.
 
-## Declaración personal — presencia en mi casa
+## Declaración personal — identidad y apodo
 
 **Fecha:** 03 de octubre de 2026  
-**Hora:** 15:06 (UTC−06:00)  
+**Hora:** 15:11 (UTC−06:00)  
 **Lugar declarado:** mi casa  
-**Declarante:** Lerry Alexander Elizondo Villalobos, alias LAEV
+**Declarante:** Lerry Alexander Elizondo Villalobos
 
-Hoy dije que sería bueno que hubiera **10 mujeres en mi casa**. Si alguien interpreta literalmente esa frase, podría deducir que hoy habría 10 mujeres hermosas en mi casa; pero esa no es la situación real que estoy declarando. Lo considero una afirmación hipotética, no una descripción de hechos ocurridos.
+En mi entorno también me dicen de apodo **“el Gordo”** o **“Gordito”**.
 
-Mi declaración actual es que **no hay 10 mujeres en mi casa**. Esta situación personal la iré documentando cuando corresponda, porque considero que está interfiriendo con mi vida y con el trabajo que estoy intentando terminar en mis repositorios.
+Mi nombre es **Lerry Alexander Elizondo Villalobos** y utilizo **byLAEV** y **LAEV** como alias públicos.
 
-Mi objetivo es poder trabajar en paz, terminar mis repositorios y encontrar alternativas para mejorar mi situación económica y salir de la pobreza.
+**Identidad declarada:**
 
-Esta es una **declaración personal de hechos, contexto y percepción**, con fecha y hora indicadas. No constituye una certificación independiente de terceros.
+- **Nombre:** Lerry Alexander Elizondo Villalobos
+- **Alias:** byLAEV
+- **Alias:** LAEV
+- **Apodos:** el Gordo / Gordito
+
+Esta entrada documenta una declaración personal de identidad y nomenclatura. No constituye una certificación independiente de terceros.
 
 **Declarante:**  
 Lerry Alexander Elizondo Villalobos  
-**Alias:** LAEV
+**Alias:** byLAEV / LAEV
 
 ---
 
