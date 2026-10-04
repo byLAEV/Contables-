@@ -132,23 +132,21 @@ Lerry Alexander Elizondo Villalobos
 **Music:** HL Music  
 **Soundtrack context:** Trilema Records by LAEV — Soundtrack  
 **YouTube:** https://youtu.be/UbzfOfTsTnU?si=0u2hKlMdoJn_fcz1  
-**Record timestamp:** 2026-10-03 19:20:00 -06:00 (America/Costa_Rica) | ISO 8601: 2026-10-03T19:20:00-06:00
+**Record timestamp:** 2026-10-03 19:23:00 -06:00 (America/Costa_Rica) | ISO 8601: 2026-10-03T19:23:00-06:00
 
 ## Contemporary personal statement
 
 At the time of this record, I state that I am at my residence in the Las Tres Marías area of San Ramón, Alajuela, Costa Rica, and that I am alone at home.
 
-For privacy and safety, this public accounting record intentionally does **not** publish a precise residential address or identifying architectural description. The location reference is limited to the neighborhood-level area.
+For privacy and safety, this public accounting record does not publish my precise residential address or distinctive architectural description. The public location reference is limited to the Las Tres Marías area of San Ramón.
 
-I am documenting this because I am deeply frustrated by what I consider false statements and misinformation surrounding my life in San Ramón. This section records **my own contemporaneous statement**, not an independently verified finding about other people.
-
-## Creative record
+I am fucking tired of what I believe are lies throughout the town of San Ramón. I swear, in the name of the lives of the inhabitants of this town of San Ramón, that I am alone at home. This is my contemporaneous personal statement and is not presented as an independently verified finding about other people.
 
 I have just created the song **“Marías Trilema by HL Music — Trilema Records by LAEV (Soundtrack)”**.
 
 The song is an autobiographical and artistic work. Its first-person lyrics address identity, family conflict, personal memories, architecture and design, GitHub, blockchain culture, decentralized systems, the Trilema Project, Blockchain OG's, Bitcoiners Cartel and the artist's own creative practice.
 
-References to other people, events, workplaces or personal history in the lyrics are presented as **artistic expression and LAEV's perspective/memory**. They should not be interpreted by this repository as independently established factual findings.
+References to other people, events, workplaces or personal history in the lyrics are presented as artistic expression and LAEV's perspective/memory.
 
 ## Lyrics
 
